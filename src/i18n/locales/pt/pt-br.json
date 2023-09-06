@@ -1,0 +1,78 @@
+{
+    "translation": {
+        "navbar.home": "INÍCIO",
+        "navbar.about": "SOBRE",
+        "navbar.projects": "PROJETOS",
+
+        "navbar.arborea": "ARBÓREA",
+        "navbar.maps": "MAPS",
+        "navbar.back": "VOLTAR",
+
+        "home.type.line-1": "Hello World!",
+        "home.type.line-2": "Seja bem-vindo ao nosso site!",
+        "home.type.line-3": "Confira nossos projetos!",
+        "home.type.line-4": "Vamos criar um projeto <strong>incrivel</strong> para você!",
+
+        "about.title": "Quem nós somos?",
+        "about.description": "Somos a Prefeitura de Américo Brasiliense, uma equipe dedicada e comprometida em tornar nossa cidade um lugar ainda mais acolhedor, vibrante e sustentável para todos os seus moradores. Através de iniciativas inovadoras e colaborativas, como o projeto Adote uma Praça, buscamos unir empresas e a comunidade para transformar nossos espaços públicos em verdadeiros oásis urbanos.",
+        "stack.title": "Vantagens de se adotar uma praça",
+
+        "projects.title": "Conheça nossos projetos",
+        "projects.description": "Aqui, você terá a oportunidade de conhecer algumas praças que já foram adotadas e revitalizadas.",
+
+        "project.abijaudi": "Praça Abi Jaudi",
+        "project.cruzeiro": "Praça cruzeiro",
+        "project.planalto": "Praça Planalto",
+        "project.Valegre": "Praça Vista Alegre",
+        "project.recreativa": "Praça Recreativa",    
+
+        "project.visit": "Ver Praça",
+        "project.blog": "Ler Mudanças",
+
+        "contact.title": "Contato",
+        "contact.description": "Para solicitar um orçamento ou tirar dúvidas sobre os serviços da TheCodeStudios, preencha o formulário abaixo ou entre em contato por uma de nossas redes sociais. Responderemos sua mensagem o mais breve possível.",
+
+        "contact.form.name": "Nome",
+        "contact.form.name.description": "Digite o seu nome completo",
+
+        "contact.form.email": "E-mail",
+        "contact.form.email.description": "Digite o seu e-mail",
+
+        "contact.form.phone": "Telefone",
+        "contact.form.phone.description": "Digite o seu telefone",
+
+        "contact.form.message": "Mensagem",
+        "contact.form.message.description": "Digite sua mensagem",
+
+        "contact.form.send.button": "Enviar",
+
+        "title.abijaudi": "Praça Abi Jaudi",
+        "text.abijaudi": "As mudanças planejadas para a nossa praça são ambiciosas e visam transformá-la em um espaço público renovado e encantador. Com a pintura revitalizante, o plantio diversificado de árvores e a reforma do banheiro, buscamos criar uma experiência aprimorada e acolhedora para todos que a utilizarem. Essas mudanças não apenas tornarão a praça mais atraente visualmente, mas também promoverão o bem-estar da comunidade, incentivando a interação social, o lazer e o contato com a natureza. Ao adotarmos nossa praça em parceria com as empresas locais, fortalecemos o senso de pertencimento e a colaboração entre todos os envolvidos. Juntos, podemos transformar nossa praça em um verdadeiro oásis urbano, onde a comunidade se reúne, desfruta e celebra a vida em um ambiente revitalizado e inspirador.",
+        "titleTress.abijaudi":"Diversidade Arbórea",
+        "tress.abijaudi":"Reconhecemos a importância da flora local e o papel fundamental das árvores na criação de um ambiente saudável e agradável. Iremos utilizar uma diversidade de espécies arbóreas, como o ipê amarelo, noivinha, escova-de-garrafa, oiti, dama-da-noite, cambuci, pata-de-vaca e quaresmeira. para a preservação da biodiversidade local e o embelezamento da praça.",
+        "SubTress.abijaudi":"1. Ipê Amarelo (Handroanthus chrysotrichus):",
+        "SubTress2.abijaudi":"2. Cambuci (Campomanesia phaea):",
+        "SubTress3.abijaudi":"3. Dama-da-Noite (Cestrum nocturnum):",
+        "SubTress4.abijaudi":"4. Escova-de-Garrafa (Callistemon spp.):",
+        "SubTress5.abijaudi":"5. Noivinha (Strelitzia reginae):",
+        "SubTress6.abijaudi":"6. Oiti (Licania tomentosa):",
+        "SubTress7.abijaudi":"7. Quaresmeira (Tibouchina spp.):",
+        "SubTress8.abijaudi":"8. Pata-de-Vaca (Bauhinia spp.):",
+        "texttress1.abijaudi":"O ipê amarelo é uma árvore nativa do Brasil, conhecida por sua exuberante floração amarela. Além de embelezar a paisagem, o ipê amarelo atrai polinizadores, como abelhas e borboletas, contribuindo para a preservação da biodiversidade local. Sua madeira é resistente e possui propriedades medicinais, sendo uma espécie de grande valor ecológico e cultural.",
+        "texttress2.abijaudi":"O cambuci é uma árvore nativa da Mata Atlântica, com características marcantes, como tronco tortuoso e frutos comestíveis de sabor ácido e refrescante. Além de ser uma espécie de grande importância cultural e gastronômica, o cambuci é fundamental para a preservação da biodiversidade local, servindo como alimento para diversas espécies de aves e animais silvestres.",
+        "texttress3.abijaudi":"A dama-da-noite é uma árvore de porte médio, originária da América Central, que se destaca por sua fragrância noturna intensa. Suas pequenas flores brancas liberam um perfume marcante ao entardecer, atraindo polinizadores noturnos, como mariposas e morcegos. A presença da dama-da-noite na praça criará um ambiente perfumado e encantador durante as noites, proporcionando uma experiência sensorial única aos visitantes.",
+        "texttress4.abijaudi":"A escova-de-garrafa é uma árvore de origem australiana, que se destaca por suas inflorescências vermelhas semelhantes a escovas de limpeza. Essa espécie é bastante resistente e adaptável, além de atrair aves e insetos polinizadores. A presença da escova-de-garrafa na praça contribuirá para a diversidade ecológica, ao mesmo tempo em que acrescenta um toque de cor e exotismo à paisagem.",
+        "texttress5.abijaudi":"A noivinha, também conhecida como ave-do-paraíso, é uma planta de beleza exótica, com flores vibrantes e forma peculiar. Originária da África do Sul, ela se adapta bem ao clima tropical. A presença da noivinha na praça trará um toque de exuberância, atraindo admiradores e adicionando uma atmosfera tropical ao ambiente.",
+        "texttress6.abijaudi":"O oiti é uma árvore nativa do Brasil, conhecida por sua copa densa e sombreada, que oferece abrigo e alimento para diversas espécies de aves. Além disso, suas flores e frutos atraem polinizadores e animais silvestres. O oiti é resistente e adaptável a diferentes condições, sendo uma escolha ideal para trazer sombra e frescor à praça.",
+        "texttress7.abijaudi":"A quaresmeira é uma árvore de floração exuberante, com flores roxas e vibrantes. Essa espécie nativa do Brasil é resistente e adaptável, trazendo cor e beleza à paisagem. A quaresmeira atrai beija-flores e borboletas, sendo um importante recurso para a polinização e conservação da fauna local.",
+        "texttress8.abijaudi":"A pata-de-vaca é uma árvore de médio porte, nativa do Brasil, que se destaca por suas flores vistosas e folhas em formato de casco de cavalo, que lembram uma pata. Essa espécie atrai polinizadores, como abelhas e borboletas, e contribui para a diversidade da fauna local. Além disso, possui propriedades medicinais, sendo utilizada na fitoterapia.",
+        "maps": "Maps",
+        "titleConclusao":"Conclusão",
+        "conclusao.abijaudi":"O projeto Adote uma Praça é uma iniciativa inovadora que busca unir empresas e comunidade em prol da melhoria dos espaços públicos. Ao engajar as empresas na revitalização das praças, fortalecemos a responsabilidade social das corporações, promovemos espaços públicos saudáveis e seguros, impulsionamos a economia local, incentivamos a participação cidadã e valorizamos o meio ambiente. A adesão das empresas e o envolvimento da população são fundamentais para o sucesso desse projeto, que visa transformar nossas praças em verdadeiros pontos de encontro e bem-estar para todos. Juntos, podemos construir uma cidade ainda mais acolhedora e vibrante.",
+
+        "footer.text": "",
+        "footer.social": "Redes Sociais",
+        "footer.copyright": "2023 Todos os direitos reservados. Prefeitura Américo Brasiliense."
+
+    }
+}
