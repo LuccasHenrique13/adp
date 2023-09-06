@@ -17,7 +17,7 @@ const Footer = () => {
             <h2>{t('footer.social')}</h2>
             <div className='contacts'>
               <a href='mailto:projetoadpamerico@gmail.com' className='footer-mail'><FontAwesomeIcon icon={faEnvelope} /></a>
-              <a href='https://www.instagram.com/thecode.studios/' className='footer-instagram'><FontAwesomeIcon icon={faInstagram} /></a>
+              <a href='https://www.instagram.com/adp.americo/' className='footer-instagram'><FontAwesomeIcon icon={faInstagram} /></a>
             </div>
           </div>
           <div className='footer-text'>
