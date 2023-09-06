@@ -171,7 +171,7 @@ body{
     filter: brightness(0.4); 
 }
 
-.back-videoError{
+.back-videoError {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -180,10 +180,11 @@ body{
     position: relative;
 }
 
-.back-videoError img{
-    height: 100%;
+/* Defina a largura da imagem em 100% para torná-la responsiva */
+.back-videoError img {
+    width: 100%; /* Defina a largura da imagem em 100% */
+    height: auto; /* Mantenha a proporção original da imagem */
 }
-
 
 #logoAM img{
     height: 2vh;
