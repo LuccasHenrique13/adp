@@ -25,7 +25,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/tHGbLfawGnoqtgm17" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-reactjs.vercel.app/abijaudi" className="visit">{t('project.blog')}</a>
+                        <a href="https://adp-psi.vercel.app/abijaudi" className="visit">{t('project.blog')}</a>
                     </div>
                 </div>
             </div>
@@ -41,7 +41,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/dX5jSUNmbaxgS3ss5" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-reactjs.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/a8akA2a3ik6F2QLv6" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-reactjs.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/mfwGvoSk3v45KAvq7" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-reactjs.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
                     </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/dzMJwHrcXu4pVYoM9" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-reactjs.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
                     </div>
                 </div>
             </div>

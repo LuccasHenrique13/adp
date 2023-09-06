@@ -59,14 +59,14 @@ const NavBar = () => {
   if (location.pathname === '/paginanaoecontrada') {
     links = (
       <>
-      <li><a href="https://adp-reactjs.vercel.app">{t('navbar.back')}</a></li>
+      <li><a href="https://adp-psi.vercel.app/">{t('navbar.back')}</a></li>
       </>
     );
   }
 
   return (
     <header className={`navbar ${visible ? '' : 'hidden'}`}>
-      <a href="https://adp-reactjs.vercel.app">
+      <a href="https://adp-psi.vercel.app/">
         <div className="logo">
           <img src={logo} alt="Adote uma Praça" />
         </div>
