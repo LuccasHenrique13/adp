@@ -5,6 +5,7 @@ import planalto from '../assets/planalto.jpg';
 import Valegre from '../assets/vista.jpg';
 import recreativa from '../assets/recreativa.jpg';
 import { useTranslation } from "react-i18next";
+import { Link } from 'react-router-dom';
 
 const Projects = () => {
   const { t } = useTranslation();
@@ -25,7 +26,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/tHGbLfawGnoqtgm17" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-psi.vercel.app/abijaudi" className="visit">{t('project.blog')}</a>
+                        <Link to="/abijaudi" className="visit">{t('project.blog')}</Link>
                     </div>
                 </div>
             </div>
@@ -41,7 +42,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/dX5jSUNmbaxgS3ss5" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <Link to="/paginanaoecontrada" className="visit">{t('project.blog')}</Link>
                     </div>
                 </div>
             </div>
@@ -59,7 +60,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/a8akA2a3ik6F2QLv6" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <Link to="/paginanaoecontrada" className="visit">{t('project.blog')}</Link>
                     </div>
                 </div>
             </div>
@@ -77,7 +78,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/mfwGvoSk3v45KAvq7" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <Link to="/paginanaoecontrada" className="visit">{t('project.blog')}</Link>
                     </div>
                 </div>
             </div>
@@ -93,7 +94,7 @@ const Projects = () => {
                         <a href="https://photos.app.goo.gl/dzMJwHrcXu4pVYoM9" className="visit">{t('project.visit')}</a>
                     </div>
                     <div className="project-buttons">
-                        <a href="https://adp-psi.vercel.app/paginanaoecontrada" className="visit">{t('project.blog')}</a>
+                        <Link to="/paginanaoecontrada" className="visit">{t('project.blog')}</Link>
                     </div>
                 </div>
             </div>
